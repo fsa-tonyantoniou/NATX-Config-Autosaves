@@ -321,20 +321,3 @@
 2023-05-24 07:00:09,465:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-24
 2023-05-24 07:00:09,640:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
 2023-05-24 07:00:09,641:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
-2023-05-24 07:00:14,162:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
-2023-05-24 07:00:14,163:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-24
-2023-05-24 07:00:14,347:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
-2023-05-24 07:00:14,348:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
-2023-05-24 07:00:18,798:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
-2023-05-24 07:00:18,799:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-24
-2023-05-24 07:00:18,965:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
-2023-05-24 07:00:18,966:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
-2023-05-24 07:00:23,519:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
-2023-05-24 07:00:23,520:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-24
-2023-05-24 07:00:23,696:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
-2023-05-24 07:00:23,697:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
-2023-05-24 07:00:28,191:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
-2023-05-24 07:00:28,192:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-24
-2023-05-24 07:00:28,381:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
-2023-05-24 07:00:28,382:                    nacob:    INFO: ********* Backups Completed **************
-
