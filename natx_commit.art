@@ -1,0 +1,33 @@
+#!/bin/sh
+# If started as root, then restart as user "technology":
+if [ "$(id -u)" -eq 0 ]; then
+    exec sudo -H -u technology $0 "$@"
+    echo "This is never reached.";
+fi
+
+set +x
+tempmail=`mktemp -t natxmail.XXX`
+templog=`mktemp -t natxgitlog.XXX`
+mailto="tony.antoniou@foxsports.com.au,engsupport@foxtel.com.au"
+mailfrom="NATX-Github@foxsports.com.au"
+
+# We need to first run rsync to push new configs across to Github repo folder, along with pruning any configs that are past the 14 days which are pruned by the Evertz-supplied autosave script
+# rsync must not touch any git repo system files that would otherwise be deleted in this sync process
+rsync -avh --delete-after --exclude=".git/" --exclude=".gitattributes" /home/technology/NATX\ Config\ Autosaves/NATX\ Autosave\ \[0700AM\]/* /home/technology/NATX-Config-Autosaves
+
+# Proceed with pushing new files to Github
+cd  /home/technology/NATX-Config-Autosaves/
+git add * > $templog
+git commit -m "Daily push from Github Repo Sync VM" >> $templog
+git push -u >> $templog
+
+# Send email notification
+printf "To: $mailto\nFrom: $mailfrom\nSubject: NATX Configs - From `date +%d-%m-%Y-%H:%M:%S`\n\nNATX Config Autosaves successfully pushed to Github.\n\n" > $tempmail
+cat $templog >> $tempmail
+cat $tempmail | msmtp --read-envelope-from --read-recipients --auth=off --host smtp.fsa.ninja --port 25
+
+# Cleanup after ourselves
+rm $tempmail
+rm $templog
+
+exit 0;
