@@ -1,0 +1,652 @@
+2023-05-15 11:15:19,478:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-15 11:15:19,509:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:34:23,284:                    nacob:    INFO: NATx Config Backup - Runs Everyday 696
+2023-05-15 11:34:23,314:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:35:23,283:                    nacob:    INFO: NATx Config Backup - Runs Everyday 720
+2023-05-15 11:35:23,330:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:35:55,157:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-15 11:35:55,172:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:36:22,891:                    nacob:    INFO: NATx Config Backup - Runs Everyday 09:00
+2023-05-15 11:36:22,925:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:36:36,091:                    nacob:    INFO: NATx Config Backup - Runs Everyday 09:30
+2023-05-15 11:36:36,132:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:36:54,605:                    nacob:    INFO: NATx Config Backup - Runs Everyday 600
+2023-05-15 11:36:54,640:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:37:10,149:                    nacob:    INFO: NATx Config Backup - Runs Everyday 1140
+2023-05-15 11:37:10,172:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:37:52,708:                    nacob:    INFO: NATx Config Backup - Runs Everyday 012:00
+2023-05-15 11:37:52,739:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 11:46:36,871:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-15 11:46:36,871:                    nacob:    INFO: validating config file
+2023-05-15 11:46:36,871:    nacob.ART-COR-IPX-RED:    INFO: Backup triggered
+2023-05-15 11:46:41,349:    nacob.ART-COR-IPX-RED:    INFO: Exporting backup
+2023-05-15 11:46:41,350:    nacob.ART-COR-IPX-RED:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\ART-COR-IPX-RED\2023-05-15
+2023-05-15 11:46:41,561:    nacob.ART-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-15 11:46:41,562:    nacob.ART-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-15 11:46:45,907:    nacob.ART-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-15 11:46:45,908:    nacob.ART-AG1-IPX-RED:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\ART-AG1-IPX-RED\2023-05-15
+2023-05-15 11:46:46,173:    nacob.ART-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-15 11:46:46,173:    nacob.ART-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-15 11:46:50,514:    nacob.ART-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-15 11:46:50,514:    nacob.ART-AG2-IPX-RED:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\ART-AG2-IPX-RED\2023-05-15
+2023-05-15 11:46:50,726:    nacob.ART-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-15 11:46:50,726:    nacob.ART-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-15 11:46:54,170:    nacob.ART-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-15 11:46:54,170:    nacob.ART-COR-IPX-BLU:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\ART-COR-IPX-BLU\2023-05-15
+2023-05-15 11:46:54,386:    nacob.ART-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-15 11:46:54,386:    nacob.ART-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-15 11:46:57,821:    nacob.ART-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-15 11:46:57,824:    nacob.ART-AG1-IPX-BLU:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\ART-AG1-IPX-BLU\2023-05-15
+2023-05-15 11:46:58,058:    nacob.ART-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-15 11:46:58,058:    nacob.ART-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-15 11:47:02,451:    nacob.ART-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-15 11:47:02,451:    nacob.ART-AG2-IPX-BLU:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\ART-AG2-IPX-BLU\2023-05-15
+2023-05-15 11:47:02,721:    nacob.ART-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-15 11:47:02,721:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-15 11:47:07,159:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-15 11:47:07,159:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-15
+2023-05-15 11:47:07,407:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-15 11:47:07,407:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-15 11:47:11,896:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-15 11:47:11,896:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-15
+2023-05-15 11:47:12,193:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-15 11:47:12,193:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-15 11:47:16,794:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-15 11:47:16,794:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-15
+2023-05-15 11:47:17,099:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-15 11:47:17,100:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-15 11:47:21,544:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-15 11:47:21,544:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-15
+2023-05-15 11:47:21,767:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-15 11:47:21,767:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-15 11:47:26,361:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-15 11:47:26,361:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-15
+2023-05-15 11:47:26,660:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-15 11:47:26,660:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-15 11:47:31,223:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-15 11:47:31,223:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-15
+2023-05-15 11:47:31,499:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-15 11:47:31,499:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-15 11:47:35,877:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-15 11:47:35,877:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-15
+2023-05-15 11:47:36,107:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-15 11:47:36,107:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-15 11:47:40,456:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-15 11:47:40,456:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\Users\tony.antoniou\Downloads\NATX Autosave scripts\NATX Autosave [0700AM]\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-15
+2023-05-15 11:47:40,688:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-15 11:47:40,689:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-15 15:30:06,863:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-15 15:30:06,863:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 15:42:34,796:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-15 15:42:34,796:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-15 16:03:42,138:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-15 16:03:42,138:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-16 07:00:00,401:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-16 07:00:00,402:                    nacob:    INFO: validating config file
+2023-05-16 07:00:00,407:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-16 07:00:04,982:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-16 07:00:04,984:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-16
+2023-05-16 07:00:05,172:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-16 07:00:05,173:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-16 07:00:09,992:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-16 07:00:09,993:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-16
+2023-05-16 07:00:10,206:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-16 07:00:10,207:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-16 07:00:14,688:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-16 07:00:14,689:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-16
+2023-05-16 07:00:14,861:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-16 07:00:14,863:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-16 07:00:19,253:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-16 07:00:19,254:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-16
+2023-05-16 07:00:19,422:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-16 07:00:19,423:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-16 07:00:23,947:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-16 07:00:23,948:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-16
+2023-05-16 07:00:24,137:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-16 07:00:24,138:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-16 07:00:28,761:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-16 07:00:28,762:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-16
+2023-05-16 07:00:28,952:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-16 07:00:28,954:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-16 10:36:50,697:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:30
+2023-05-16 10:36:50,697:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-16 12:53:14,056:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-16 12:53:14,056:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-17 07:00:00,437:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-17 07:00:00,438:                    nacob:    INFO: validating config file
+2023-05-17 07:00:00,444:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-17 07:00:03,851:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-17 07:00:03,852:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-17
+2023-05-17 07:00:04,017:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-17 07:00:04,018:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-17 07:00:08,504:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-17 07:00:08,505:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-17
+2023-05-17 07:00:08,678:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-17 07:00:08,679:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-17 07:00:13,224:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-17 07:00:13,225:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-17
+2023-05-17 07:00:13,405:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-17 07:00:13,406:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-17 07:00:17,806:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-17 07:00:17,807:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-17
+2023-05-17 07:00:17,971:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-17 07:00:17,972:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-17 07:00:22,515:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-17 07:00:22,516:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-17
+2023-05-17 07:00:22,707:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-17 07:00:22,709:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-17 07:00:27,232:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-17 07:00:27,232:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-17
+2023-05-17 07:00:27,424:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-17 07:00:27,425:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-18 07:00:00,991:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-18 07:00:00,992:                    nacob:    INFO: validating config file
+2023-05-18 07:00:01,004:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-18 07:00:04,379:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-18 07:00:04,380:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-18
+2023-05-18 07:00:04,544:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-18 07:00:04,545:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-18 07:00:08,051:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-18 07:00:08,052:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-18
+2023-05-18 07:00:08,226:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-18 07:00:08,226:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-18 07:00:11,726:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-18 07:00:11,727:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-18
+2023-05-18 07:00:11,914:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-18 07:00:11,915:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-18 07:00:16,330:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-18 07:00:16,331:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-18
+2023-05-18 07:00:16,495:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-18 07:00:16,496:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-18 07:00:20,985:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-18 07:00:20,986:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-18
+2023-05-18 07:00:21,162:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-18 07:00:21,163:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-18 07:00:25,656:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-18 07:00:25,656:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-18
+2023-05-18 07:00:25,847:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-18 07:00:25,848:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-19 07:00:00,067:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-19 07:00:00,068:                    nacob:    INFO: validating config file
+2023-05-19 07:00:00,079:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-19 07:00:04,451:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-19 07:00:04,452:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-19
+2023-05-19 07:00:04,632:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-19 07:00:04,633:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-19 07:00:08,134:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-19 07:00:08,135:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-19
+2023-05-19 07:00:08,309:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-19 07:00:08,310:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-19 07:00:12,838:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-19 07:00:12,839:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-19
+2023-05-19 07:00:13,031:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-19 07:00:13,032:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-19 07:00:17,427:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-19 07:00:17,428:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-19
+2023-05-19 07:00:17,595:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-19 07:00:17,595:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-19 07:00:22,068:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-19 07:00:22,069:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-19
+2023-05-19 07:00:22,243:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-19 07:00:22,244:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-19 07:00:25,720:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-19 07:00:25,721:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-19
+2023-05-19 07:00:25,911:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-19 07:00:25,912:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-20 07:00:00,047:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-20 07:00:00,048:                    nacob:    INFO: validating config file
+2023-05-20 07:00:00,060:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-20 07:00:03,713:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-20 07:00:03,714:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-20
+2023-05-20 07:00:03,905:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-20 07:00:03,906:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-20 07:00:08,406:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-20 07:00:08,407:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-20
+2023-05-20 07:00:08,596:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-20 07:00:08,598:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-20 07:00:13,150:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-20 07:00:13,151:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-20
+2023-05-20 07:00:13,346:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-20 07:00:13,347:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-20 07:00:17,798:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-20 07:00:17,798:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-20
+2023-05-20 07:00:17,975:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-20 07:00:17,976:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-20 07:00:22,485:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-20 07:00:22,485:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-20
+2023-05-20 07:00:22,666:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-20 07:00:22,667:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-20 07:00:27,149:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-20 07:00:27,150:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-20
+2023-05-20 07:00:27,340:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-20 07:00:27,340:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-21 07:00:00,478:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-21 07:00:00,479:                    nacob:    INFO: validating config file
+2023-05-21 07:00:00,491:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-21 07:00:04,972:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-21 07:00:04,973:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-21
+2023-05-21 07:00:05,155:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-21 07:00:05,156:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-21 07:00:10,145:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-21 07:00:10,145:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-21
+2023-05-21 07:00:10,356:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-21 07:00:10,357:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-21 07:00:15,387:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-21 07:00:15,387:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-21
+2023-05-21 07:00:15,646:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-21 07:00:15,647:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-21 07:00:20,683:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-21 07:00:20,684:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-21
+2023-05-21 07:00:20,893:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-21 07:00:20,894:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-21 07:00:25,591:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-21 07:00:25,592:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-21
+2023-05-21 07:00:25,775:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-21 07:00:25,777:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-21 07:00:29,350:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-21 07:00:29,351:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-21
+2023-05-21 07:00:29,530:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-21 07:00:29,530:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-22 07:00:00,142:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-22 07:00:00,143:                    nacob:    INFO: validating config file
+2023-05-22 07:00:00,155:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-22 07:00:05,072:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-22 07:00:05,073:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-22
+2023-05-22 07:00:05,242:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-22 07:00:05,242:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-22 07:00:09,803:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-22 07:00:09,804:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-22
+2023-05-22 07:00:09,978:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-22 07:00:09,979:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-22 07:00:14,510:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-22 07:00:14,511:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-22
+2023-05-22 07:00:14,701:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-22 07:00:14,702:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-22 07:00:19,136:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-22 07:00:19,137:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-22
+2023-05-22 07:00:19,303:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-22 07:00:19,304:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-22 07:00:23,849:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-22 07:00:23,850:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-22
+2023-05-22 07:00:24,042:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-22 07:00:24,043:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-22 07:00:28,588:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-22 07:00:28,589:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-22
+2023-05-22 07:00:28,779:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-22 07:00:28,780:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-23 07:00:00,796:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-23 07:00:00,797:                    nacob:    INFO: validating config file
+2023-05-23 07:00:00,807:    nacob.OXF-COR-IPX-RED:    INFO: Backup triggered
+2023-05-23 07:00:05,210:    nacob.OXF-COR-IPX-RED:    INFO: Exporting backup
+2023-05-23 07:00:05,211:    nacob.OXF-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-RED\2023-05-23
+2023-05-23 07:00:05,378:    nacob.OXF-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-23 07:00:05,378:    nacob.OXF-AG1-IPX-RED:    INFO: Backup triggered
+2023-05-23 07:00:09,886:    nacob.OXF-AG1-IPX-RED:    INFO: Exporting backup
+2023-05-23 07:00:09,887:    nacob.OXF-AG1-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-RED\2023-05-23
+2023-05-23 07:00:10,067:    nacob.OXF-AG1-IPX-RED:    INFO: Prunning old backup
+2023-05-23 07:00:10,068:    nacob.OXF-AG2-IPX-RED:    INFO: Backup triggered
+2023-05-23 07:00:13,641:    nacob.OXF-AG2-IPX-RED:    INFO: Exporting backup
+2023-05-23 07:00:13,642:    nacob.OXF-AG2-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-RED\2023-05-23
+2023-05-23 07:00:13,831:    nacob.OXF-AG2-IPX-RED:    INFO: Prunning old backup
+2023-05-23 07:00:13,832:    nacob.OXF-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-23 07:00:17,276:    nacob.OXF-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-23 07:00:17,277:    nacob.OXF-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-COR-IPX-BLU\2023-05-23
+2023-05-23 07:00:17,443:    nacob.OXF-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-23 07:00:17,445:    nacob.OXF-AG1-IPX-BLU:    INFO: Backup triggered
+2023-05-23 07:00:22,298:    nacob.OXF-AG1-IPX-BLU:    INFO: Exporting backup
+2023-05-23 07:00:22,298:    nacob.OXF-AG1-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG1-IPX-BLU\2023-05-23
+2023-05-23 07:00:22,498:    nacob.OXF-AG1-IPX-BLU:    INFO: Prunning old backup
+2023-05-23 07:00:22,498:    nacob.OXF-AG2-IPX-BLU:    INFO: Backup triggered
+2023-05-23 07:00:27,198:    nacob.OXF-AG2-IPX-BLU:    INFO: Exporting backup
+2023-05-23 07:00:27,199:    nacob.OXF-AG2-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\OXF-AG2-IPX-BLU\2023-05-23
+2023-05-23 07:00:27,403:    nacob.OXF-AG2-IPX-BLU:    INFO: Prunning old backup
+2023-05-23 07:00:27,405:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-23 11:58:23,281:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-23 11:58:23,281:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-23 12:08:49,037:                    nacob:    INFO: NATx Config Backup - Runs Everyday 07:00
+2023-05-23 12:08:49,037:                    nacob:    INFO: NOTE: Do not close this windows
+2023-05-24 07:00:00,644:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-24 07:00:00,660:                    nacob:    INFO: validating config file
+2023-05-24 07:00:00,673:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-24 07:00:05,127:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-24 07:00:05,130:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-24
+2023-05-24 07:00:05,316:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-24 07:00:05,319:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-24 07:00:09,638:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-24 07:00:09,640:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-24
+2023-05-24 07:00:09,835:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-24 07:00:09,837:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-25 07:00:00,203:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-25 07:00:00,219:                    nacob:    INFO: validating config file
+2023-05-25 07:00:00,229:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-25 07:00:03,629:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-25 07:00:03,631:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-25
+2023-05-25 07:00:03,819:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-25 07:00:03,822:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-25 07:00:08,179:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-25 07:00:08,180:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-25
+2023-05-25 07:00:08,378:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-25 07:00:08,379:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-26 07:00:00,490:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-26 07:00:00,507:                    nacob:    INFO: validating config file
+2023-05-26 07:00:00,516:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-26 07:00:04,905:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-26 07:00:04,907:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-26
+2023-05-26 07:00:05,098:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-26 07:00:05,100:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-26 07:00:09,449:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-26 07:00:09,450:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-26
+2023-05-26 07:00:09,637:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-26 07:00:09,639:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-27 07:00:00,997:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-27 07:00:01,014:                    nacob:    INFO: validating config file
+2023-05-27 07:00:01,023:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-27 07:00:05,369:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-27 07:00:05,372:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-27
+2023-05-27 07:00:05,558:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-27 07:00:05,560:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-27 07:00:09,908:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-27 07:00:09,909:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-27
+2023-05-27 07:00:10,097:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-27 07:00:10,099:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-28 07:00:00,946:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-28 07:00:00,963:                    nacob:    INFO: validating config file
+2023-05-28 07:00:00,972:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-28 07:00:05,226:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-28 07:00:05,229:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-28
+2023-05-28 07:00:05,416:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-28 07:00:05,418:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-28 07:00:08,720:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-28 07:00:08,721:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-28
+2023-05-28 07:00:08,905:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-28 07:00:08,906:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-29 07:00:00,308:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-29 07:00:00,325:                    nacob:    INFO: validating config file
+2023-05-29 07:00:00,334:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-29 07:00:04,635:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-29 07:00:04,637:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-29
+2023-05-29 07:00:04,824:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-29 07:00:04,826:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-29 07:00:09,235:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-29 07:00:09,237:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-29
+2023-05-29 07:00:09,412:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-29 07:00:09,413:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-30 07:00:00,206:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-30 07:00:00,223:                    nacob:    INFO: validating config file
+2023-05-30 07:00:00,233:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-30 07:00:03,629:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-30 07:00:03,632:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-30
+2023-05-30 07:00:03,818:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-30 07:00:03,821:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-30 07:00:08,157:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-30 07:00:08,158:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-30
+2023-05-30 07:00:08,337:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-30 07:00:08,338:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-05-31 07:00:00,677:                    nacob:    INFO: ********* Starting Backups **************
+2023-05-31 07:00:00,693:                    nacob:    INFO: validating config file
+2023-05-31 07:00:00,703:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-05-31 07:00:03,988:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-05-31 07:00:03,990:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-31
+2023-05-31 07:00:04,177:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-05-31 07:00:04,179:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-05-31 07:00:08,573:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-05-31 07:00:08,575:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-31
+2023-05-31 07:00:08,762:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-05-31 07:00:08,763:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-01 07:00:00,007:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-01 07:00:00,024:                    nacob:    INFO: validating config file
+2023-06-01 07:00:00,034:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-01 07:00:03,307:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-01 07:00:03,310:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-01
+2023-06-01 07:00:03,479:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-01 07:00:03,482:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-01 07:00:06,764:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-01 07:00:06,765:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-01
+2023-06-01 07:00:06,953:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-01 07:00:06,954:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-02 07:00:00,010:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-02 07:00:00,027:                    nacob:    INFO: validating config file
+2023-06-02 07:00:00,036:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-02 07:00:03,401:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-02 07:00:03,402:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-02
+2023-06-02 07:00:03,591:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-02 07:00:03,593:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-02 07:00:06,951:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-02 07:00:06,952:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-02
+2023-06-02 07:00:07,155:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-02 07:00:07,157:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-03 07:00:00,146:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-03 07:00:00,163:                    nacob:    INFO: validating config file
+2023-06-03 07:00:00,171:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-03 07:00:04,490:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-03 07:00:04,492:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-03
+2023-06-03 07:00:04,663:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-03 07:00:04,666:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-03 07:00:08,980:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-03 07:00:08,981:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-03
+2023-06-03 07:00:09,165:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-03 07:00:09,166:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-04 07:00:00,107:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-04 07:00:00,124:                    nacob:    INFO: validating config file
+2023-06-04 07:00:00,133:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-04 07:00:04,457:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-04 07:00:04,460:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-04
+2023-06-04 07:00:04,647:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-04 07:00:04,650:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-04 07:00:09,012:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-04 07:00:09,014:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-04
+2023-06-04 07:00:09,203:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-04 07:00:09,205:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-05 07:00:00,463:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-05 07:00:00,479:                    nacob:    INFO: validating config file
+2023-06-05 07:00:00,488:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-05 07:00:04,819:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-05 07:00:04,822:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-05
+2023-06-05 07:00:05,016:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-05 07:00:05,018:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-16
+2023-06-05 07:00:05,019:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-16
+2023-06-05 07:00:05,025:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-05 07:00:08,365:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-05 07:00:08,366:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-05
+2023-06-05 07:00:08,554:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-05 07:00:08,555:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-16
+2023-06-05 07:00:08,556:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-16
+2023-06-05 07:00:08,560:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-06 07:00:00,588:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-06 07:00:00,604:                    nacob:    INFO: validating config file
+2023-06-06 07:00:00,613:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-06 07:00:04,931:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-06 07:00:04,934:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-06
+2023-06-06 07:00:05,121:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-06 07:00:05,122:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-17
+2023-06-06 07:00:05,123:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-17
+2023-06-06 07:00:05,128:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-06 07:00:09,429:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-06 07:00:09,430:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-06
+2023-06-06 07:00:09,618:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-06 07:00:09,620:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-17
+2023-06-06 07:00:09,620:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-17
+2023-06-06 07:00:09,625:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-07 07:00:00,599:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-07 07:00:00,615:                    nacob:    INFO: validating config file
+2023-06-07 07:00:00,624:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-07 07:00:04,940:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-07 07:00:04,942:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-07
+2023-06-07 07:00:05,126:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-07 07:00:05,127:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-24
+2023-06-07 07:00:05,128:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-24
+2023-06-07 07:00:05,130:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-07 07:00:09,449:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-07 07:00:09,451:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-07
+2023-06-07 07:00:09,638:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-07 07:00:09,639:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-24
+2023-06-07 07:00:09,639:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-24
+2023-06-07 07:00:09,641:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-08 07:00:00,544:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-08 07:00:00,561:                    nacob:    INFO: validating config file
+2023-06-08 07:00:00,569:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-08 07:00:04,906:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-08 07:00:04,909:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-08
+2023-06-08 07:00:05,111:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-08 07:00:05,115:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-25
+2023-06-08 07:00:05,116:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-25
+2023-06-08 07:00:05,118:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-08 07:00:09,628:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-08 07:00:09,629:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-08
+2023-06-08 07:00:09,837:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-08 07:00:09,838:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-25
+2023-06-08 07:00:09,839:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-25
+2023-06-08 07:00:09,840:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-09 07:00:00,880:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-09 07:00:00,897:                    nacob:    INFO: validating config file
+2023-06-09 07:00:00,906:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-09 07:00:05,284:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-09 07:00:05,286:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-09
+2023-06-09 07:00:05,469:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-09 07:00:05,471:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-26
+2023-06-09 07:00:05,472:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-26
+2023-06-09 07:00:05,474:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-09 07:00:09,835:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-09 07:00:09,836:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-09
+2023-06-09 07:00:10,008:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-09 07:00:10,009:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-26
+2023-06-09 07:00:10,010:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-26
+2023-06-09 07:00:10,011:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-10 07:00:00,090:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-10 07:00:00,107:                    nacob:    INFO: validating config file
+2023-06-10 07:00:00,116:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-10 07:00:04,425:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-10 07:00:04,426:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-10
+2023-06-10 07:00:04,611:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-10 07:00:04,613:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-27
+2023-06-10 07:00:04,614:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-27
+2023-06-10 07:00:04,616:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-10 07:00:08,023:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-10 07:00:08,025:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-10
+2023-06-10 07:00:08,218:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-10 07:00:08,219:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-27
+2023-06-10 07:00:08,220:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-27
+2023-06-10 07:00:08,221:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-11 07:00:00,811:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-11 07:00:00,827:                    nacob:    INFO: validating config file
+2023-06-11 07:00:00,837:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-11 07:00:05,232:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-11 07:00:05,234:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-11
+2023-06-11 07:00:05,421:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-11 07:00:05,422:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-28
+2023-06-11 07:00:05,423:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-28
+2023-06-11 07:00:05,425:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-11 07:00:09,813:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-11 07:00:09,814:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-11
+2023-06-11 07:00:10,010:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-11 07:00:10,012:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-28
+2023-06-11 07:00:10,013:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-28
+2023-06-11 07:00:10,014:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-12 07:00:00,538:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-12 07:00:00,555:                    nacob:    INFO: validating config file
+2023-06-12 07:00:00,564:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-12 07:00:04,862:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-12 07:00:04,864:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-12
+2023-06-12 07:00:05,049:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-12 07:00:05,051:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-29
+2023-06-12 07:00:05,052:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-29
+2023-06-12 07:00:05,054:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-12 07:00:09,534:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-12 07:00:09,535:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-12
+2023-06-12 07:00:09,740:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-12 07:00:09,742:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-29
+2023-06-12 07:00:09,743:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-29
+2023-06-12 07:00:09,744:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-13 07:00:00,997:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-13 07:00:01,013:                    nacob:    INFO: validating config file
+2023-06-13 07:00:01,023:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-13 07:00:04,394:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-13 07:00:04,395:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-13
+2023-06-13 07:00:04,585:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-13 07:00:04,586:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-30
+2023-06-13 07:00:04,587:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-30
+2023-06-13 07:00:04,589:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-13 07:00:08,976:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-13 07:00:08,977:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-13
+2023-06-13 07:00:09,168:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-13 07:00:09,169:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-30
+2023-06-13 07:00:09,170:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-30
+2023-06-13 07:00:09,171:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-14 07:00:00,215:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-14 07:00:00,233:                    nacob:    INFO: validating config file
+2023-06-14 07:00:00,240:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-14 07:00:04,541:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-14 07:00:04,542:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-14
+2023-06-14 07:00:04,727:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-14 07:00:04,728:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-31
+2023-06-14 07:00:04,729:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-05-31
+2023-06-14 07:00:04,731:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-14 07:00:09,086:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-14 07:00:09,087:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-14
+2023-06-14 07:00:09,280:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-14 07:00:09,282:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-31
+2023-06-14 07:00:09,282:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-05-31
+2023-06-14 07:00:09,284:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-15 07:00:00,432:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-15 07:00:00,448:                    nacob:    INFO: validating config file
+2023-06-15 07:00:00,457:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-15 07:00:04,840:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-15 07:00:04,841:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-15
+2023-06-15 07:00:05,034:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-15 07:00:05,036:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-01
+2023-06-15 07:00:05,036:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-01
+2023-06-15 07:00:05,039:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-15 07:00:09,793:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-15 07:00:09,794:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-15
+2023-06-15 07:00:10,004:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-15 07:00:10,005:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-01
+2023-06-15 07:00:10,005:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-01
+2023-06-15 07:00:10,007:                    nacob:    INFO: ********* Backups Completed **************
+
+2023-06-16 07:00:00,234:                    nacob:    INFO: ********* Starting Backups **************
+2023-06-16 07:00:00,252:                    nacob:    INFO: validating config file
+2023-06-16 07:00:00,261:    nacob.MAC-COR-IPX-RED:    INFO: Backup triggered
+2023-06-16 07:00:03,528:    nacob.MAC-COR-IPX-RED:    INFO: Exporting backup
+2023-06-16 07:00:03,531:    nacob.MAC-COR-IPX-RED:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-16
+2023-06-16 07:00:03,715:    nacob.MAC-COR-IPX-RED:    INFO: Prunning old backup
+2023-06-16 07:00:03,716:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-02
+2023-06-16 07:00:03,717:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-RED\2023-06-02
+2023-06-16 07:00:03,719:    nacob.MAC-COR-IPX-BLU:    INFO: Backup triggered
+2023-06-16 07:00:08,269:    nacob.MAC-COR-IPX-BLU:    INFO: Exporting backup
+2023-06-16 07:00:08,271:    nacob.MAC-COR-IPX-BLU:   DEBUG: exporting back to C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-16
+2023-06-16 07:00:08,473:    nacob.MAC-COR-IPX-BLU:    INFO: Prunning old backup
+2023-06-16 07:00:08,475:                    nacob:   DEBUG: Current directory: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-02
+2023-06-16 07:00:08,475:                    nacob:    INFO: Removing old backup: C:\NATX Config Autosaves\NATX Autosave [0700AM]\backups\MAC-COR-IPX-BLU\2023-06-02
+2023-06-16 07:00:08,477:                    nacob:    INFO: ********* Backups Completed **************
+
