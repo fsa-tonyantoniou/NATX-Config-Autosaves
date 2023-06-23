@@ -19,7 +19,7 @@ rsync -avh --delete-after --exclude=".git/" --exclude=".gitattributes" /home/tec
 cd  /home/technology/NATX-Config-Autosaves/
 git add * > $templog
 git commit -m "Daily push from Github Repo Sync VM" >> $templog
-git push -u >> $templog
+git push -u -f --prune >> $templog
 
 # Send email notification
 printf "To: $mailto\nFrom: $mailfrom\nSubject: NATX Configs - From `date +%d-%m-%Y-%H:%M:%S`\n\nNATX Config Autosaves successfully pushed to Github.\n\n" > $tempmail
