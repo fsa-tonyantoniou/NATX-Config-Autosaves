@@ -4,3 +4,4 @@
 2024-09-10 07:00:05,292:                    nacob:   ERROR: Something went wrong for MAC-COR-IPX-BLU
 2024-09-14 07:00:05,686:                    nacob:   ERROR: Something went wrong for MAC-COR-IPX-BLU
 2024-09-17 07:00:04,708:                    nacob:   ERROR: Something went wrong for MAC-COR-IPX-BLU
+2024-10-12 07:00:05,392:                    nacob:   ERROR: Something went wrong for MAC-COR-IPX-BLU
