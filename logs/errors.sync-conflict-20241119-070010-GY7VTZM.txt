@@ -1,4 +1,4 @@
 2024-10-21 07:00:19,238:                    nacob:   ERROR: Something went wrong for ART-AG1-IPX-BLU
 2024-11-15 18:00:04,458:                    nacob:   ERROR: Something went wrong for MAC-COR-IPX-BLU
 2024-11-15 18:01:05,371:                    nacob:   ERROR: Something went wrong for MAC-COR-IPX-BLU
-2024-11-19 07:00:01,151:                    nacob:   ERROR: Something went wrong for OXF-COR-IPX-RED
+2024-11-19 07:00:00,691:                    nacob:   ERROR: Something went wrong for ART-COR-IPX-RED
